@@ -1,2 +1,3 @@
 library(DBI)
-library(tidyverse)
+#mit liv er lort
+library(tidyverse) #much very very used
